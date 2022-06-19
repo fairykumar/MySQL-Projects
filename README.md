@@ -1,1 +1,1 @@
-# Student-Data-Management-
+# MySQL Projects
